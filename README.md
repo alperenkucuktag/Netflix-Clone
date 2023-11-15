@@ -1,6 +1,6 @@
 # Netflix-Clone
 
-# Netflix-Clone
+
 
 # KÜtüphaneler
 
@@ -35,7 +35,7 @@
 - Hero Componenti oluştur(Tamalandı)
 - Rastgele Popüler bir filmin seçilip Hero ile Ekrana bas
 
-# Netflix-Clone
+
 
 <h1>Screen gif</h1>
 
